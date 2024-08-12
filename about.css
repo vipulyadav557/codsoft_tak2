@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.skills{
+    justify-content: space-between;
+    height: 70vh;
+    padding: 40px;
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.sk{
+    font-size: 20px;
+    align-items: center;
+    padding: 90px;
+    margin: 40px;
+}
+.Project {
+    justify-content: space-between;
+    height: 70vh;
+    background-color: rgb(194, 248, 210);
+    padding: 40px;
+    display: flex;
+}
+.proj img{
+    height: 300px
+    
+}
+.proj p{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 34px;
+}
+.proj2 img{
+    height: 300px
+    
+}
+.proj2 p{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 34px;
+}
+.Resume {
+    background-color: rgb(240, 209, 209);
+    height: 70vh;
+    display: flex;
+
+}
+
+.resume-left h1 {
+    padding: 48px;
+}
+
+.resume-left p {
+    text-align: left;
+    padding: 60px;
+    font-size: 34px;
+
+}
+
+.resume-right {
+    text-align: right;
+    width: 30%;
+    padding: 100px;
+    align-items: center;
+}
+.contact {
+    background-color: #f2e8de;
+    height: 670px;
+}
+
+.text-center {
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 35px;
+    color: black;
+
+}
+
+.form {
+    max-width: 800px;
+    margin: 24px auto;
+}
+
+.form-input {
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px 3px;
+    font-size: 19px;
+    border: 2px solid gray;
+    /* border-radius: 6px; */
+}
+
+.btn-dark {
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 6px;
+}
