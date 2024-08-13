@@ -4,17 +4,22 @@
 }
 .skills{
     justify-content: space-between;
-    height: 70vh;
-    padding: 40px;
-    max-width: 50%;
-    margin: auto;
+    height: 30vh;
     text-align: center;
+    margin: 15px;
 }
-.sk{
-    font-size: 20px;
+.skill-box{
+    display: flex;
+    justify-content: center;
     align-items: center;
-    padding: 90px;
-    margin: 40px;
+
+}
+.skill-name{
+    padding: 10px 15px;
+    font-size: 29px;
+    margin: 10px 15px;
+    background: #a07952;
+    border-radius: 15px;
 }
 .Project {
     justify-content: space-between;

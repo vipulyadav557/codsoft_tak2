@@ -80,7 +80,7 @@ header {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.5) url('/img/two\ dev.jpg');
+    background: rgba(0, 0, 0, 0.5) url('/img/images.jpeg');
     background-size: cover;
     background-blend-mode: darken;
 }
